@@ -1,0 +1,4 @@
+{
+    "path": "\\path\\to\\qbittorrent.exe",
+    "exit_close_qbit": true
+}
