@@ -33,7 +33,7 @@ https://github.com/EstrellaXD/Auto_Bangumi/releases/download/3.1.18/app-v3.1.18.
 ### 2.下载本项目
 
 ```
-git clone https://github.com/Bees-wind/AutoBangumi_qbitauto.git
+git clone https://github.com/Bees-wind/AutoBangumi-qbitauto.git
 ```
 
 ### 3.替换文件
