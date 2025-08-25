@@ -4,7 +4,7 @@ from PyInstaller.utils.hooks import collect_data_files
 block_cipher = None
 
 a = Analysis(
-    ['main5.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[
@@ -53,4 +53,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+
 )
