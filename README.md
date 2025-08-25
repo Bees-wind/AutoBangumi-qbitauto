@@ -51,7 +51,7 @@ git clone https://github.com/Bees-wind/AutoBangumi-qbitauto.git
 安装本项目依赖
 
 ```
-pip install -r requirements.txt
+pip install -r requirements_2.txt
 ```
 
 ## 5.启动
