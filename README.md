@@ -1,10 +1,3 @@
-# TODO
-
-替换用main.py待上传
-
-pyinstaller build.spec待上传
-
-本项目requirments.txt待上传
 
 # AutoBangumi-qbitauto
 
@@ -69,7 +62,11 @@ python main.py
 
 ## 6.（可选）打包成.exe
 
-（todo）
+```
+pip install pyinstaller
+pyinstaller build.spec
+```
+打包的exe可以在/dist下找到
 
 ## 声明
 
